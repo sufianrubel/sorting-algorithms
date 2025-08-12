@@ -37,3 +37,12 @@ Each algorithm is implemented in a separate file under the `algorithms/` folder,
 ```bash
 git clone https://github.com/sufianrubel/sorting-algorithms.git
 cd sorting-algorithms
+ ```
+2. **Initialize Go module**
+```bash
+go mod init sorting-algorithms
+ ```
+3. **Run the program**
+```bash
+go run main.go
+ ```
